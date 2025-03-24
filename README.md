@@ -13,9 +13,9 @@
 ---
 
 - Load configuration from multiple sources (defaults, files, environment, CLI)
-- Strong TypeScript support with typed configuration access
-- Nested configuration with dot notation path support
 - Built-in parsers and validators
+- Nested configuration with dot notation path support
+- Strong TypeScript support with typed configuration access
 - Simple API
 - Tiny (~1.3kb gzipped)
 - Zero dependencies
