@@ -1,7 +1,7 @@
 {
   "name": "mikroconf",
   "description": "A flexible, zero-dependency, type-safe configuration manager that just makes sense.",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "author": "Mikael Vesavuori",
   "license": "MIT",
   "keywords": [
