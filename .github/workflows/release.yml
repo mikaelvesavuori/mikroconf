@@ -23,6 +23,9 @@ jobs:
       - name: Compile
         run: npx tsc
 
+      - name: Test
+        run: npm test
+
   publish:
     needs: ['build']
     runs-on: ubuntu-latest
